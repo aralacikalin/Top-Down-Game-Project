@@ -5,3 +5,11 @@ We developed a game in Unity. Which is a Top down game with a twist. normally to
 The purpose of the game is to collect items while dodging enemies.
 
 The game play/game mechanics scripts are all written by me.(Aral Açıkalın)
+
+
+<img align="left" width="450" height="270" src=pictures/MainMenu.png/>
+
+<img align="center" width="450" height="270" src=pictures/LevelsMenu.png/>
+
+<img align="center" width="450" height="270" src=pictures/Gameplay.png/>
+
